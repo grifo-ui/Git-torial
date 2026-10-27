@@ -1,3 +1,4 @@
 1. Entender la diferencia entre Git y GitHub
 2. Hacer commits con mensajes claros
 3. Sincronizar cambios con push y pull
+4. Probar pull
